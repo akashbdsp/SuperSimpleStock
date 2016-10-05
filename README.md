@@ -4,7 +4,7 @@ This package contains the following root folders:
 \SuperSimpleStock
 
 \Documents contains the Super_Simple_Stock.pdf file which is the technical document of the present project.
-\Stock is the Eclipse project with the source code of SuperSimpleStock service. In order to build and run the tests, import this folder to an Eclipse environment.
+\SuperSimpleStock is the Eclipse project with the source code of SuperSimpleStock service. In order to build and run the tests, import this folder to an Eclipse environment.
 
 
 Source:
